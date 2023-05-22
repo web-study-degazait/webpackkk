@@ -1,0 +1,26 @@
+{
+  "name": "webpackkk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-study-degazait/webpackkk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-study-degazait/webpackkk/issues"
+  },
+  "homepage": "https://github.com/web-study-degazait/webpackkk#readme",
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.0.0-rc.1"
+  }
+}
